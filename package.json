@@ -1,0 +1,19 @@
+{
+  "name": "lab-44-frontend-deployment",
+  "version": "1.0.0",
+  "description": "401 JS --  Lab 44 Deploy Frontend ===",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maslovai/lab-44-frontend-deployment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maslovai/lab-44-frontend-deployment/issues"
+  },
+  "homepage": "https://github.com/maslovai/lab-44-frontend-deployment#readme"
+}
